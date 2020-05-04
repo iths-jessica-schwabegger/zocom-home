@@ -7,7 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": ["express", "education", "API design", "express-sse", "lowdb"],
+  "keywords": [
+    "express",
+    "education",
+    "API design",
+    "express-sse",
+    "lowdb"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -15,5 +21,13 @@
     "express": "^4.17.1",
     "express-sse": "^0.5.3",
     "lowdb": "^1.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iths-jessica-schwabegger/zocom-home.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iths-jessica-schwabegger/zocom-home/issues"
+  },
+  "homepage": "https://github.com/iths-jessica-schwabegger/zocom-home#readme"
 }
